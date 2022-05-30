@@ -34,10 +34,10 @@ It is easier to get unlabeled data from a computer than labeled data, which need
 
 Another categorization of machine learning tasks arises when one considers the desired output of a machine-learned system:  
 
-Classification: When inputs are divided into two or more classes, the learner must produce a model that assigns unseen inputs to one or more (multi-label classification) of these classes. This is typically tackled in a supervised way. Spam filtering is an example of classification, where the inputs are email (or other) messages and the classes are “spam” and “not spam”.
+**1.Classification:** When inputs are divided into two or more classes, the learner must produce a model that assigns unseen inputs to one or more (multi-label classification) of these classes. This is typically tackled in a supervised way. Spam filtering is an example of classification, where the inputs are email (or other) messages and the classes are “spam” and “not spam”.
 
-Regression: Which is also a supervised problem, A case when the outputs are continuous rather than discrete.
+**2.Regression:** Which is also a supervised problem, A case when the outputs are continuous rather than discrete.
 
-Clustering: When a set of inputs is to be divided into groups. Unlike in classification, the groups are not known beforehand, making this typically an unsupervised task.
+**3.Clustering:** When a set of inputs is to be divided into groups. Unlike in classification, the groups are not known beforehand, making this typically an unsupervised task.
 
 Machine Learning comes into the picture when problems cannot be solved by means of typical approaches.  ML algorithms combined with new computing technologies promote scalability and improve efficiency.  Modern ML models can be used to make predictions ranging from outbreaks of disease to the rise and fall of stocks.
