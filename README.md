@@ -21,6 +21,7 @@ Use supervised learning if you know in advance what you want to teach a machine.
 In the financial industry, machine learning can analyze historical data and then identify the financial risk of organizations and individuals.
 In the marketing industry, machine learning can analyze past behavior patterns, then predict customers’ behavior and personalize the experience.
 In the knowledge management field, machine learning helps classify text into categories.
+
 **2. UNSUPERVISED LEARNING**
 Unsupervised learning enables a machine to explore a set of data. After the initial exploration, the machine tries to identify hidden patterns that connect different variables. This type of learning can help turn data into groups, based only on statistical properties. Unsupervised learning does not require training on large data sets, and so it is much faster and easier to deploy, compared to supervised learning.
 Here, are prime reasons for using Unsupervised Learning in Machine Learning:
