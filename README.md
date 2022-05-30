@@ -23,3 +23,8 @@ In the marketing industry, machine learning can analyze past behavior patterns, 
 In the knowledge management field, machine learning helps classify text into categories.
 **2. UNSUPERVISED LEARNING**
 Unsupervised learning enables a machine to explore a set of data. After the initial exploration, the machine tries to identify hidden patterns that connect different variables. This type of learning can help turn data into groups, based only on statistical properties. Unsupervised learning does not require training on large data sets, and so it is much faster and easier to deploy, compared to supervised learning.
+Here, are prime reasons for using Unsupervised Learning in Machine Learning:
+Unsupervised machine learning finds all kind of unknown patterns in data.
+Unsupervised methods help you to find features which can be useful for categorization.
+It is taken place in real time, so all the input data to be analyzed and labeled in the presence of learners.
+It is easier to get unlabeled data from a computer than labeled data, which needs manual intervention.
