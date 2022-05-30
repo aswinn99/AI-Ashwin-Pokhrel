@@ -1,4 +1,4 @@
-# AI-Ashwin-Pokhrel
+# AI-assignment I & II
 
 **Machine learning** is a subfield of artificial intelligence (AI). The goal of machine learning generally is to understand the structure of data and fit that data into models that can be understood and utilized by people.
 
